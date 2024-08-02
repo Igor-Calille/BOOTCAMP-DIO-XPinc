@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "trilha-net-fundamentos-desafio", "trilha-net-fundamentos-desafio", "{E98C9186-F028-437E-A1D4-30E04689E38F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "trilha-net-fundamentos-desafio\DesafioFundamentos\DesafioFundamentos.csproj", "{CA249061-902C-4413-926D-77826273B70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA249061-902C-4413-926D-77826273B70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA249061-902C-4413-926D-77826273B70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA249061-902C-4413-926D-77826273B70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA249061-902C-4413-926D-77826273B70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA249061-902C-4413-926D-77826273B70F} = {E98C9186-F028-437E-A1D4-30E04689E38F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5881C28F-48A4-441D-AC13-86A17E13DF4A}
+	EndGlobalSection
+EndGlobal
